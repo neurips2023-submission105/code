@@ -94,6 +94,10 @@ The new key arguments are:
 Use `CUDA_VISIBLE_DEVICES` to control the number of GPUs available for parallel evaluation of multiple random directions.
 Alternatively, use multiple runs to get more random directions with different seeds.
 
+### Toy Fourier Experiment
+
+See [notebooks/fourier.ipynb](notebooks/fourier.ipynb) for the code used to investigate the properties presented in Section 3.3 of the submission.
+
 ## LICENSE
 
 Apache 2.0
